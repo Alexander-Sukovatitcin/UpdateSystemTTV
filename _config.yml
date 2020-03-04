@@ -1,2 +1,4 @@
 theme: jekyll-theme-hacker
 title: Welcome my buddy
+nav:
+- Overview: README.md
