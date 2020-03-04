@@ -1,4 +1,18 @@
 theme: jekyll-theme-hacker
 title: Welcome my buddy
+markdown_extensions:
+- admonition
+- codehilite
+- footnotes
+- meta
+- toc:
+    permalink: true
+- pymdownx.betterem:
+    smart_enable: all
+- pymdownx.caret
+- pymdownx.inlinehilite
+- pymdownx.magiclink
+- pymdownx.smartsymbols
+- pymdownx.superfences
 nav:
 - Overview: README.md
