@@ -1,1 +1,7 @@
+site_name: TEST
+
+site_description: TEST DESC
+site_author: SANEK
+site_url: SANEK.sanya
+
 theme: jekyll-theme-hacker
