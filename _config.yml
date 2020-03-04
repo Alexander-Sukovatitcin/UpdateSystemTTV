@@ -1,4 +1,17 @@
-theme: jekyll-theme-hacker
+theme:
+  name: 'material'
+  favicon: 'https://badoo.com/favicon.ico'
+  logo:
+    icon: 'code'
+  palette:
+    primary: 'deep purple'
+    accent: 'pink'
+  social:
+  - type: 'github'
+    link: 'https://github.com/badoo/MVICore'
+  font:
+    text: 'Fira Sans'
+    code: 'Fira Mono'
 title: Welcome my buddy
 markdown_extensions:
 - admonition
